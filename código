@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <script>
     var num1, num2, sum
     num1 = prompt("Enter first number")
@@ -5,3 +9,7 @@
     sum = parseInt(num1) + parseInt(num2) // "+" means "add"
     alert("Sum = " + sum)  // "+" means combine into a string
 </script>
+
+</script>
+</body>
+</html>
